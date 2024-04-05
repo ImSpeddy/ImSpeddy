@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ethan Mahlstedt</h1>
-<h3 align="center">A node.js backend developer from mexico</h3>
+<h3 align="center">A node.js backend developer from México</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imspeddy&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="imspeddy" /> </p>
 
