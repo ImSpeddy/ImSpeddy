@@ -19,4 +19,5 @@ I got a bronze medal on the 31st Mexican Informatics Olympiad (OMI) in 2026, bre
 
 ---
 
+- Look at my [**Codeforces Profile**](https://codeforces.com/profile/EthanMahlstedt)
 - Reach me at: **ethan.mahlstedt@hotmail.com**
