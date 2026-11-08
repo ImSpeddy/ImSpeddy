@@ -1,15 +1,22 @@
 <h1 align="center">Hi 👋, I'm Ethan Mahlstedt</h1>
-<h3 align="center">I'm a Mexican developer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=imspeddy&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="imspeddy" /> </p>
+<p align="center">I'm a mexican programmer, I like math, low level systems and competitive programming.</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imspeddy&theme=discord&row=1&column=6&no-frame=true&no-bg=true" alt="imspeddy" /></a> </p>
+---
 
-- 📫 How to reach me **ethan.mahlstedt@hotmail.com**
+<h1 align="center">Awards and recognitions:</h1>
+
+#### 🥉| OMI 2026:
+I got a bronze medal on the 31st Mexican Informatics Olympiad (OMI) in 2026, breaking my state's score record with a score of [**183.36**](https://www.olimpiadadeinformatica.org.mx/Resultados/Profile/view?usuario=_16843).
+
+#### 6th place | TorneoMat UAG:
+6th place in the XXXII UAG's nationwide math tournament. Having been invited to the award and recognition ceremony.
+
+---
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://github.com/NeedleOrg/NeedleDB" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/ImSpeddy/ImSpeddy/main/res/needledbround.png" alt="NeedleDB" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a></p>
+<p align="center"> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/ImSpeddy/ImSpeddy/refs/heads/main/res/cpp.png" alt="C++" width="40" height="40"></p> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imspeddy&show_icons=true&locale=en&layout=compact&theme=radical" alt="imspeddy" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imspeddy&show_icons=true&locale=en&theme=radical" alt="imspeddy" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imspeddy&theme=radical" alt="imspeddy" /></p>
+---
+
+- Reach me at: **ethan.mahlstedt@hotmail.com**
